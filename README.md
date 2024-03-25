@@ -1,2 +1,2 @@
-# UTSAVGUPTA
-use of HTML5, CSS3, JS
+# vikas-jadaun-potfolio
+hello everyone this is my personal portfolio created by me with the help of HTML,CSS,JS
